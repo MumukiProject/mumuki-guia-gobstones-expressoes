@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: MoverComoSalmao
+  inspection: Uses:oposto
+- binding: "*"
+  inspection: DeclaresComputationWithArity1:MoverComoSalmao
