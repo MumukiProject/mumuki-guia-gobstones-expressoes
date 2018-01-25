@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: program
+  inspection: Uses:ColocarN
+- binding: program
+  inspection: Not:UsesRepeat

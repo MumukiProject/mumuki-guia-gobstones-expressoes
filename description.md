@@ -1,7 +1,6 @@
 É possível fazer programas que **somam** coisas? :heavy_plus_sign:
 <br>
-E desenhar figuras em diferentes **direções** sem ter que especificar cada uma delas? 
-:arrow_left::arrow_right:
+E desenhar figuras em diferentes **direções** sem ter que especificar cada uma delas?:arrow_left::arrow_right:
 <br>
 E **olhar** o que há no tabuleiro? :mag:
 
