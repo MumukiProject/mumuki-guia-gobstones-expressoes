@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: "*"
+  inspection: DeclaresComputationWithArity1:CaminharDesconfiado
+- binding: CaminharDesconfiado
+  inspection: Uses:MoverN
