@@ -1,0 +1,1 @@
+`MoverN` e `oposto` parecem que são bons aliados para o problema que você precisa resolver.

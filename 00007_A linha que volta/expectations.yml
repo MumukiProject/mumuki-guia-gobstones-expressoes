@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: Linha
+  inspection: UsesRepeat
+- binding: Linha
+  inspection: Uses:MoverN

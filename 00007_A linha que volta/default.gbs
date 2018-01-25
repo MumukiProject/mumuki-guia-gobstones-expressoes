@@ -1,0 +1,6 @@
+procedure Linha(direcao, cor, comprimento) {
+  repeat(comprimento) {
+    Colocar(cor)
+    Mover(direcao)
+  }
+}
