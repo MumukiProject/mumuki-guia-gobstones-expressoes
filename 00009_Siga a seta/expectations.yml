@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: "*"
+  inspection: DeclaresComputationWithArity1:Seta
+- binding: Seta
+  inspection: Uses:previo
+- binding: Seta
+  inspection: Uses:seguinte
