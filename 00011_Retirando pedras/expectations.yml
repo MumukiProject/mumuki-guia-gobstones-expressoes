@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: RetirarTodas
+  inspection: Uses:nroPedras
+- binding: RetirarTodas
+  inspection: Uses:RetirarN
