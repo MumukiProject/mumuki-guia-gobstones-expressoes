@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: ColocarSoma
+  inspection: Uses:ColocarN
+- binding: "*"
+  inspection: DeclaresComputationWithArity2:ColocarSoma
