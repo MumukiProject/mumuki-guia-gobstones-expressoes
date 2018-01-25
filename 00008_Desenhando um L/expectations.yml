@@ -1,0 +1,10 @@
+---
+expectations:
+- binding: "*"
+  inspection: DeclaresComputationWithArity1:Ele
+- binding: Ele
+  inspection: Uses:Linha
+- binding: Ele
+  inspection: Not:UsesRepeat
+- binding: Ele
+  inspection: Not:Uses:oposto
