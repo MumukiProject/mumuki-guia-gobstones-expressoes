@@ -1,0 +1,38 @@
+subject: CopiarVerdesEmVermelhas
+
+examples:
+ - title: Se não há pedras verdes, não faz nada
+   initial_board: |
+     GBB/1.0
+     size 2 2
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 2 2
+     head 0 0
+     
+ - title: Se há 2 verdes, coloca 2 vermelhas
+   initial_board: |
+     GBB/1.0
+     size 2 2
+     cell 0 0 Verde 2
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 2 2
+     cell 0 0 Verde 2
+     cell 0 0 Rojo 2
+     head 0 0
+     
+ - title: Se há 7 verdes, coloca 7 vermelhas
+   initial_board: |
+     GBB/1.0
+     size 2 2
+     cell 0 0 Verde 7
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 2 2
+     cell 0 0 Verde 7
+     cell 0 0 Rojo 7
+     head 0 0
