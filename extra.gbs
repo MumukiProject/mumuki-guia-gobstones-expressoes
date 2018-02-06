@@ -6,7 +6,7 @@ procedure ColocarN(n, cor) {
 
 procedure RetirarN(n, cor) {
   repeat(n) {
-    Sacar(cor)
+    Retirar(cor)
   }
 }
 
