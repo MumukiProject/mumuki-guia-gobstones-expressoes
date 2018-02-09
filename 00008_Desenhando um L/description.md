@@ -45,6 +45,6 @@ A primeira linha é fácil, porque coincide com a direção que recebemos por pa
 <br>
 `seguiente(direcao)` indica a direção seguinte à especificada, enquanto que `previo(direcao)` denota a anterior, sempre pensando no sentido das agulhas do relógio:
  
-<img src="https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-expresiones/master/images/rosa-de-los-vientos.png" width=300 />
+<img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-expressoes/master/images/rosa_vientos-01_1518181578273.svg" alt="rosa_vientos-01_1518181578273.svg" width="auto" height="auto">
 
 > Descubra quais das novas funções você deve utilizar e implemente o procedimento `Ele(direcao)`. Não se preocupe com a posição inicial da garra, nós encontraremos o lugar correspondente para que a letra L possa ser desenhada.
