@@ -1,6 +1,0 @@
----
-expectations:
-- binding: CopiarVerdesEmVermelhas
-  inspection: Uses:ColocarN
-- binding: CopiarVerdesEmVermelhas
-  inspection: Uses:nroPedras
