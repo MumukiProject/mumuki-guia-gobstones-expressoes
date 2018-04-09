@@ -10,4 +10,4 @@ Observemos alguns exemplos:
 
 O que está faltando para nós agora é uma forma de **contar quantas pedras verdes existem**, e para isso necessitamos outra função que nos dá Gobstones: `nroPedras(cor)`. O que faz é simples: nos informa quantas pedras de uma determinada cor existem **na posição atual**.
 
-> Usando `nroPedras`, escreva o procedimento `CopiarVerdesEmVermelhas()`. 
+> Usando `nroPedras`, escreva o procedimento `CopiarVerdesEmVermelhas()`.
